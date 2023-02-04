@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.125227f4.css",
+    "main.js": "/static/js/main.a94ef8c8.js",
+    "static/media/still_not_rite.mp3": "/static/media/still_not_rite.1bbe17391392f4f2043a.mp3",
+    "static/media/Get_Up_Stand_Up.mp3": "/static/media/Get_Up_Stand_Up.fb3d6b599983fa171d61.mp3",
+    "static/media/So_Much_Trouble.mp3": "/static/media/So_Much_Trouble.d02e93f0ef196318139e.mp3",
+    "static/media/Cool_Ride.mp3": "/static/media/Cool_Ride.c528540119de683e5175.mp3",
+    "static/media/The_Gentlemen.mp3": "/static/media/The_Gentlemen.b3531ed35583959eff8f.mp3",
+    "static/media/rearview.mp3": "/static/media/rearview.0ec5be4531bb9f2b28dc.mp3",
+    "static/media/Cop_A_Feel.mp3": "/static/media/Cop_A_Feel.58668a01d785662c1610.mp3",
+    "static/media/last_horizon.mp3": "/static/media/last_horizon.4f3e6768a799745a1013.mp3",
+    "static/media/smooth_jazz_night.mp3": "/static/media/smooth_jazz_night.74cf0534e4e93beaa95a.mp3",
+    "static/media/I_still_wan't_you.mp3": "/static/media/I_still_wan't_you.a68915dcdb5adc93296a.mp3",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/RP4_KICK_1.mp3": "/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
+    "static/media/Heater-1.mp3": "/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/Heater-2.mp3": "/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
+    "static/media/Heater-3.mp3": "/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
+    "static/media/Heater-4_1.mp3": "/static/media/Heater-4_1.0c29815eb40bbe7d4d7b.mp3",
+    "static/media/Dsc_Oh.mp3": "/static/media/Dsc_Oh.5f33c02936f6ec6f8199.mp3",
+    "static/media/Heater-6.mp3": "/static/media/Heater-6.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick_n_Hat.mp3": "/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/silence.mp3": "/static/media/silence.3518986b194763f53fa2.mp3",
+    "static/media/Cev_H2.mp3": "/static/media/Cev_H2.0b159bd307a31937b138.mp3",
+    "index.html": "/index.html",
+    "main.125227f4.css.map": "/static/css/main.125227f4.css.map",
+    "main.a94ef8c8.js.map": "/static/js/main.a94ef8c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.125227f4.css",
+    "static/js/main.a94ef8c8.js"
+  ]
+}
